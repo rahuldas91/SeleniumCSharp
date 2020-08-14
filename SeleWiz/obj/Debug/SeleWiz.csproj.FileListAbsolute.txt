@@ -40,7 +40,6 @@ E:\Work\VisualStudio\SeleWiz\SeleWiz\bin\Debug\nunit.framework.xml
 E:\Work\VisualStudio\SeleWiz\SeleWiz\bin\Debug\RazorEngine.xml
 E:\Work\VisualStudio\SeleWiz\SeleWiz\bin\Debug\System.Web.Razor.xml
 E:\Work\VisualStudio\SeleWiz\SeleWiz\bin\Debug\WebDriver.xml
-E:\Work\VisualStudio\SeleWiz\SeleWiz\obj\Debug\SeleWiz.csprojAssemblyReference.cache
 E:\Work\VisualStudio\SeleWiz\SeleWiz\obj\Debug\SeleWiz.csproj.CoreCompileInputs.cache
 E:\Work\VisualStudio\SeleWiz\SeleWiz\obj\Debug\SeleWiz.csproj.CopyComplete
 E:\Work\VisualStudio\SeleWiz\SeleWiz\obj\Debug\SeleWiz.dll
